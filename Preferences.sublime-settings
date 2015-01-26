@@ -1,31 +1,30 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
-	"default_line_ending": "unix",
-	"ensure_newline_at_eof_on_save": true,
-	"font_size": 14,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage",
-		"Markdown"
-	],
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
-	"overlay_scroll_bars": "enabled",
-	"piatto_folder_icons": true,
-	"reveal-on-activate": true,
-	"rulers":
-	[
-		80,
-		120
-	],
-	"save_on_focus_lost": true,
-	"scroll_past_end": true,
-	"set_translate_tabs": true,
-	"tab_size": 4,
-	"theme": "Brogrammer.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+  "auto_complete_commit_on_tab": true,
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+  "default_line_ending": "unix",
+  "ensure_newline_at_eof_on_save": true,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage",
+    "Markdown"
+  ],
+  "overlay_scroll_bars": "enabled",
+  "piatto_folder_icons": true,
+  "reveal-on-activate": true,
+  "draw_white_space": "all",
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "rulers":
+  [
+    80,
+    120
+  ],
+  "save_on_focus_lost": true,
+  "scroll_past_end": true,
+  "set_translate_tabs": true,
+  "theme": "Brogrammer.sublime-theme",
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true
 }
